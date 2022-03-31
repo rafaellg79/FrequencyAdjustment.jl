@@ -183,16 +183,15 @@ Rafael L. Germano, Manuel M. Oliveira and Eduardo S. L. Gastal. "Real-Time Frequ
 
 ```bibtex
 @article{GermanoOliveiraGastal2021,
-  author   = {Germano, Rafael L. and Oliveira, Manuel M. and Gastal, Eduardo S. L.},
+  author   = {Rafael L. Germano and Manuel M. Oliveira and Eduardo S. L. Gastal},
   title    = {Real-Time Frequency Adjustment of Images and Videos},
   journal  = {Computer Graphics Forum},
   volume   = {40},
   number   = {2},
   pages    = {23-37},
-  keywords = {CCS Concepts, • Computing methodologies → Image processing},
   doi      = {https://doi.org/10.1111/cgf.142612},
-  url      = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.142612},
-  eprint   = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.142612},
+  url      = {https://www.inf.ufrgs.br/~eslgastal/RealTimeFrequencyAdjustment/},
+  eprint   = {https://diglib.eg.org/handle/10.1111/cgf142612},
   year     = {2021}
 }
 ```
